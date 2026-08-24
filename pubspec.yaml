@@ -1,0 +1,54 @@
+name: shirbrax
+description: "پلتفرم اشتراک‌گذاری عکس و فیلم بین دوستان صمیمی"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management & MVC
+  get: ^4.7.2
+
+  # Routing
+  go_router: ^15.1.2
+
+  # Network
+  dio: ^5.8.0+1
+
+  # Local Storage
+  get_storage: ^2.1.1
+
+  # Media
+  cached_network_image: ^3.4.1
+  video_player: ^2.9.2
+  chewie: ^1.11.0
+  image_picker: ^1.1.2
+  photo_view: ^0.15.0
+
+  # UI & Animations
+  google_fonts: ^6.2.1
+  flutter_animate: ^4.5.0
+  shimmer: ^3.0.0
+
+  # Utilities
+  timeago: ^3.7.0
+  intl: ^0.19.0
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  # assets:
+  #   - assets/images/
+  #   - assets/icons/
+

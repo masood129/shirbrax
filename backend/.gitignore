@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment / secrets
+.env
+.env.*
+
+# SQLite database
+data/*.db
+data/*.db-journal
+data/*.sqlite
+
+# User uploads
+uploads/*
+!uploads/.gitkeep
+
+# Logs
+*.log
+npm-debug.log*
