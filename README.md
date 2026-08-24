@@ -187,13 +187,13 @@ flutter run
 
 برای مطالعه جزئیات بیشتر در مورد هر بخش، به اسناد زیر مراجعه کنید:
 
-1. [📖 راهنمای تخصصی سرور بک‌اند (backend/README.md)](file:///home/masoud/Documents/FlutterProject/shirbrax/backend/README.md)
-2. [📡 کاتالوگ و مرجع کامل وب‌سرویس‌ها (docs/API_REFERENCE.md)](file:///home/masoud/Documents/FlutterProject/shirbrax/docs/API_REFERENCE.md)
-3. [📱 راهنمای معماری و توسعه کلاینت فلاتر (docs/FLUTTER_GUIDE.md)](file:///home/masoud/Documents/FlutterProject/shirbrax/docs/FLUTTER_GUIDE.md)
-4. [🚀 راهنمای استقرار در سرور عملیاتی (docs/DEPLOYMENT_GUIDE.md)](file:///home/masoud/Documents/FlutterProject/shirbrax/docs/DEPLOYMENT_GUIDE.md)
+1. [📖 راهنمای تخصصی سرور بک‌اند (backend/README.md)](backend/README.md)
+2. [📡 کاتالوگ و مرجع کامل وب‌سرویس‌ها (docs/API_REFERENCE.md)](docs/API_REFERENCE.md)
+3. [📱 راهنمای معماری و توسعه کلاینت فلاتر (docs/FLUTTER_GUIDE.md)](docs/FLUTTER_GUIDE.md)
+4. [🚀 راهنمای استقرار در سرور عملیاتی (docs/DEPLOYMENT_GUIDE.md)](docs/DEPLOYMENT_GUIDE.md)
 
 ---
 
 ## 📄 لایسنس
 
-این پروژه تحت مجوز [MIT](file:///home/masoud/Documents/FlutterProject/shirbrax/LICENSE) منتشر شده است.
+این پروژه تحت مجوز [MIT](LICENSE) منتشر شده است.
